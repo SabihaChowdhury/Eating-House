@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "423075766298",
+    "firebase_url": "https://eatinghouse-5bb7e.firebaseio.com",
+    "project_id": "eatinghouse-5bb7e",
+    "storage_bucket": "eatinghouse-5bb7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423075766298:android:3f0fa16ca8b35f55",
+        "android_client_info": {
+          "package_name": "com.example.sabihachowdhury.eatinghouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423075766298-p9sdfm980rhmfimm1olnfrpedopa8l82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sabihachowdhury.eatinghouse",
+            "certificate_hash": "2d449ae8fe7cae5fe20b1088dd8e9a8a3f36f070"
+          }
+        },
+        {
+          "client_id": "423075766298-9mibp389d92dsbrrseka3lbq8uj0uhk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU6cgQ-Xcy435H2_TFUBnaFIMB9S4pmm8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423075766298-9mibp389d92dsbrrseka3lbq8uj0uhk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
